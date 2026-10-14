@@ -1,0 +1,8 @@
+.DS_Store
+*.npy
+*.m4a
+*.mp4
+*.mov
+all/
+masks/
+scratchpad/
